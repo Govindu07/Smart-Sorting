@@ -1,7 +1,7 @@
 # SimpleFruitClassifier
 
 
-<img src="media/web_page.jpg">
+<img src="media/Screenshot%202025-06-26%20231558.png">
 
 ## A CNN based classifier to differentiate between rotten and fresh, apples, bananas and oranges.
 

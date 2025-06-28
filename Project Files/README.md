@@ -20,6 +20,8 @@
 Few images are given under media to test upon
 
 
-## Example of Classification 
-![fruit-clasifier](media/Screenshot%202025-06-26%20231919.png)
+## Example of Classification
+<video> 
+<source src="Video Demo/Screen_record.mp4" type ="video/mp4">
+</video>
 

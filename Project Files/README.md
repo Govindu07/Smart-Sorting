@@ -21,7 +21,5 @@ Few images are given under media to test upon
 
 
 ## Example of Classification
-<video> 
-<source src="Video Demo/Screen_record.mp4" type ="video/mp4">
-</video>
+<img src="Video Demo/Screen_record.mp4">
 

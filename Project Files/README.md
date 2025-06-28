@@ -21,5 +21,5 @@ Few images are given under media to test upon
 
 
 ## Example of Classification 
-![fruit-clasifier](media/fruit_classifiergif.gif)
+![fruit-clasifier](media/Screenshot%202025-06-26%20231919.png)
 

@@ -1,2 +1,4 @@
 ## Smart-Sorting : Transfer Learning for Identifying Rotten Fruits and Vegetables
-<br>      </br> <img src="Project Files/media/dp.png"> 
+ <div style="text-align:center;">
+   <img src="Project Files/media/dp.png">
+ </div>

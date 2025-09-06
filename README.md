@@ -1,6 +1,6 @@
 <h1> Smart-Sorting : Transfer Learning for Identifying Rotten Fruits and Vegetables</h1>
  <div style="text-align:center;">
-  <img src="Project Files/media/dp.png" width=700 height=350 align="center" />
+  <img src="Project Files/media/dp.png" width=550 />
  </div>
 
 <h2>video</h2>
